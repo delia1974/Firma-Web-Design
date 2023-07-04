@@ -1,0 +1,34 @@
+body {
+   text-align: left;
+   margin-top: 120px;
+   margin-left: 320px;
+   background-image: url(../img/banner-template-design-abstract-black-and-white-geometric-squares-overlapping-layer-on-clean-background-vector.jpg);
+}
+
+* {
+   box-sizing: border-box;
+ }
+ 
+ h1 {
+   color: rgb(75, 27, 27);
+   font-size: 4rem;
+   font-family: sans-serif;
+   text-align: left;
+   line-height: 20vh;
+ }
+ 
+ span {
+   opacity: 0;
+   transition: all 0.4s ease;
+   transform: translateY(50px);
+ }
+ 
+ span.fade {
+   opacity: 1;
+   transform: translateY(50px);
+ }
+
+
+https://learn.microsoft.com/ro-ro/power-apps/guidance/fusion-dev-ebook/06-using-web-api-in-app
+
+https://www.charisma.ro/noutati/ce-este-un-api-si-care-sunt-principalele-sale-beneficii?gad=1&gclid=CjwKCAjw-vmkBhBMEiwAlrMeF0tD_t-OsFVA_ngmIkUaUQtjBHLA9WB9_T88B_NDKchpdbw4bEsiIRoCEnkQAvD_BwE

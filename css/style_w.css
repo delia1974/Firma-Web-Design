@@ -1,0 +1,68 @@
+.text1 {
+  color: rgb(14, 12, 12);
+  font-size: 14px;
+  -1px -1px 2px lightblue;
+  margin-top: -250px;
+  margin-left: 260px;
+  margin-right: 60px;
+}
+
+.text2 {
+    color: rgb(8, 6, 6);
+    font-size: 14px;
+    -1px -1px 2px lightblue;
+    margin-top: 150px;
+    margin-left: 300px;
+    margin-right: 170px;
+  }
+  
+.card-a1 {
+  position: absolute;
+  top: 27%;
+  left: 17%;
+  padding: 10px;
+  
+}
+
+
+.card-a2 {
+  position: absolute;
+  top: 27%;
+  left: 40%;
+  padding: 10px;
+  
+}
+
+
+.card-a3 {
+  position: absolute;
+  top: 27%;
+  left: 64%;
+  padding: 10px; 
+  
+}
+
+.snip1325 {
+  position: relative;
+  overflow: hidden;
+  margin: 30px;
+  min-width: 255px;
+  max-width: 315px;
+  height: 220px;
+  width: 100%;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+}
+.snip1325 img {
+  height: 100%;
+  position: absolute;
+  right: 0;
+  -webkit-transition: all 2s ease-out;
+  transition: all 2s ease-out;
+}
+.snip1325:hover img,
+.snip1325.hover img {
+  -webkit-transform: translateX(130px);
+  transform: translateX(130px);
+}
+
+
